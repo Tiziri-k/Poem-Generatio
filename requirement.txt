@@ -1,0 +1,6 @@
+chardet
+kaggle
+pandas
+transformers
+torch
+matplotlib
